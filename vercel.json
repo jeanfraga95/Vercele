@@ -3,7 +3,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://cdnet25.b-cdn.net/$1"
+      "destination": "http://ns2.cloudjf.com.br/$1"
     }
   ]
 }
